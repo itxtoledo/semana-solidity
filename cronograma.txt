@@ -1,0 +1,10 @@
+SEMANA SOLIDITY
+
+0 - apresentação e projeto final, será uma aula por dia
+1 - Hello world
+2 - Tipos de dados primitivos
+3 - Variaveis e contantes, imutaveis
+4 - ler e escrever em uma variavel de estado
+5 - ether e wei, Gas
+6 - view pure, payable e modifiers
+7 - contrato de loteria

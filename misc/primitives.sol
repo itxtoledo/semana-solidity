@@ -5,6 +5,7 @@ contract Primitives {
     bool public boo = true;
 
     /*
+    unsigned integer
     uint significa inteiro sem sinal, que sao os inteiros nao negativos
     diferentes tamanhos estao disponiveis
         uint8   varia de 0 ate 2 ** 8 - 1
@@ -17,6 +18,7 @@ contract Primitives {
     uint256 public u = 123; // uint é um alias para uint256
 
     /*
+    integer
     Números negativos são permitidos para tipos inteiros.
     Como o uint, faixas diferentes são disponíveis para o int8 até o int256
     

@@ -2,7 +2,7 @@ module.exports = {
   networks: {},
   compilers: {
     solc: {
-      version: "0.6.0",
+      version: "0.8.1",
       settings: {
         optimizer: {
           enabled: true, // Default: false

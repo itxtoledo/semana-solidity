@@ -5,7 +5,7 @@ contract("HelloWorld", function (accounts) {
     contract = await HelloWorld.new();
   });
 
-  it("need show our message", async () => {
+  it.skip("need show our message", async () => {
     const message = await contract.greetings();
 
     assert("Ola semana solidity!" == message);

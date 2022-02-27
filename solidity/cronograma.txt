@@ -8,3 +8,9 @@ SEMANA SOLIDITY
 5 - ether e wei, Gas
 6 - view pure, payable e modifiers
 7 - contrato de loteria
+
+instalar 
+"@truffle/hdwallet-provider": "^2.0.0"
+
+truffle migrate --network bsctest
+truffle run verify Lottery@0x5e6Fa6B6fd43Cf10f066a26F2D10b47574b8e60C --network bsctest
